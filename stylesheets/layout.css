@@ -25,6 +25,7 @@ header {
   margin-bottom: 1.5em;
   text-align: center;
   background-color: #00CC00;
+  border-radius: 25px;
 }
 
 .addressButton {
@@ -34,8 +35,13 @@ header {
   margin-bottom: .5em;
   text-align: center;
   background-color: #27597F;
+  border-radius: 25px;
 }
 
 .buttonText {
   color: white;
+  font-size: 2.5em;
+  display: inline;
+  position: relative;
+  top: 40%;
 }
